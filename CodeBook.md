@@ -1,7 +1,8 @@
----
-title: "Code Book - Wearables Data Set"
-date: "27. Dezember 2015"
----
+
+Code Book - Wearables Data Set
+==============================
+
+Date: "27. Dezember 2015"
 
 The data of this (tidy) data set represent aggregated data from the Human Activity Recognition database which was built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted Samsung S smartphone with embedded inertial sensors.
 
