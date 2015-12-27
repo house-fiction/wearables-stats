@@ -1,5 +1,5 @@
-Readme of the repository house-fiction/wearables-stats
-======================================================
+Readme of the repo /wearables-stats
+===================================
 
 ### Purpose
 
