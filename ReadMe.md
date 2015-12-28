@@ -3,7 +3,7 @@ Readme of the repo /wearables-stats
 
 ### Purpose
 
-The purpose of this project is to prepare (tidy) data set based on the raw data from the Human Activity Recognition database (<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>)that meets the tidy data principles (Each variable you measure should be in one column, Each different observation of that variable should be in a different row).
+The purpose of this project is to prepare a (tidy) data set based on the raw data from the Human Activity Recognition database (<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>) that meets the tidy data principles (Each variable you measure should be in one column, Each different observation of that variable should be in a different row).
 
 
 ### Contents
